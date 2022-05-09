@@ -14,6 +14,9 @@
             "email": "chaman.adit24x7@gmail.com"
         }
     ],
+    "autoload": {
+        "files":["src/helpers.php"]
+    },
     "minimum-stability": "stable",
     "require": {}
 }
