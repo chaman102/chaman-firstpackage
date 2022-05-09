@@ -1,0 +1,19 @@
+{
+    "name": "chaman/first-package",
+    "description": "this is my first package",
+    "type": "library",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "Chaman\\FirstPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "chaman102",
+            "email": "chaman.adit24x7@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
