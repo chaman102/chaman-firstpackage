@@ -1,6 +1,6 @@
 <?php 
-function hello()
+function hello($name)
 {
-    return "This is hello fuction ";
+    return "This is hello fuction ".$name;
 }
 ?>
