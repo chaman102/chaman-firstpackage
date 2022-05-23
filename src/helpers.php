@@ -1,5 +1,5 @@
 <?php 
-function hello($name)
+function hellos($name)
 {
     return "This is hello fuction ".$name;
 }
